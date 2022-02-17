@@ -1,18 +1,12 @@
-# Pandas Homework - Heroes of Pymoli
-
-## Background
-
-The data dive continues!
-
-Now, it's time to take what you've learned about Python Pandas and apply it to new situations. For this assignment, you'll need to complete **one of two** (not both)  Data Challenges. Once again, which challenge you take on is your choice. Just be sure to give it your all -- as the skills you hone will become powerful tools in your data analytics tool belt.
-
-Congratulations! After a lot of hard work in the data wrangling mines, you've landed a job as Lead Analyst for an independent gaming company. You've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
-Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
-Your final report should include each of the following:
+# Heroes of Pymoli
 
 ### Player Count
 
 * Total Number of Players
+
+<p align="center">
+  <img src="https://github.com/mnperic/heroes-of-pymoli/raw/main/Images/two_player_count.png" alt="player_count"/>
+</p>
 
 ### Purchasing Analysis (Total)
 
@@ -21,11 +15,19 @@ Your final report should include each of the following:
 * Total Number of Purchases
 * Total Revenue
 
+<p align="center">
+  <img src="https://github.com/mnperic/heroes-of-pymoli/raw/main/Images/three_purchasing_analysis.png" alt="purchasing_analysis"/>
+</p>
+
 ### Gender Demographics
 
 * Percentage and Count of Male Players
 * Percentage and Count of Female Players
 * Percentage and Count of Other / Non-Disclosed
+
+<p align="center">
+  <img src="https://github.com/mnperic/heroes-of-pymoli/raw/main/Images/four_gender_demographics.png" alt="gender_demographics"/>
+</p>
 
 ### Purchasing Analysis (Gender)
 
@@ -35,6 +37,10 @@ Your final report should include each of the following:
   * Total Purchase Value
   * Average Purchase Total per Person by Gender
 
+<p align="center">
+  <img src="https://github.com/mnperic/heroes-of-pymoli/raw/main/Images/five_purchasing_analysis_gender.png" alt="purchasing_analysis_gender"/>
+</p>
+
 ### Age Demographics
 
 * The below each broken into bins of 4 years (i.e. &lt;10, 10-14, 15-19, etc.)
@@ -42,6 +48,10 @@ Your final report should include each of the following:
   * Average Purchase Price
   * Total Purchase Value
   * Average Purchase Total per Person by Age Group
+
+<p align="center">
+  <img src="https://github.com/mnperic/heroes-of-pymoli/raw/main/Images/six_age_demographics.png" alt="age_demographics"/>
+</p>
 
 ### Purchasing Analysis (age)
 
@@ -51,6 +61,10 @@ Your final report should include each of the following:
   * Total Purchase Value
   * Average Purchase Total per Person by Age
 
+<p align="center">
+  <img src="https://github.com/mnperic/heroes-of-pymoli/raw/main/Images/seven_purchasing_analysis_age.png" alt="purchasing_analysis_age"/>
+</p>
+
 ### Top Spenders
 
 * Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
@@ -58,6 +72,10 @@ Your final report should include each of the following:
   * Purchase Count
   * Average Purchase Price
   * Total Purchase Value
+
+<p align="center">
+  <img src="https://github.com/mnperic/heroes-of-pymoli/raw/main/Images/eight_top_spenders.png" alt="top_spenders"/>
+</p>
 
 ### Most Popular Items
 
@@ -68,6 +86,10 @@ Your final report should include each of the following:
   * Item Price
   * Total Purchase Value
 
+<p align="center">
+  <img src="https://github.com/mnperic/heroes-of-pymoli/raw/main/Images/nine_most_popular_items.png" alt="most_popular_items"/>
+</p>
+
 ### Most Profitable Items
 
 * Identify the 5 most profitable items by total purchase value, then list (in a table):
@@ -76,3 +98,7 @@ Your final report should include each of the following:
   * Purchase Count
   * Item Price
   * Total Purchase Value
+
+<p align="center">
+  <img src="https://github.com/mnperic/heroes-of-pymoli/raw/main/Images/ten_most_profitable_items.png" alt="most_profitable_items"/>
+</p>
