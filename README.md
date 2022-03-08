@@ -1,4 +1,4 @@
-# Pandas Homework - Heroes of Pymoli
+# Heroes of Pymoli
 
 ## Background
 
